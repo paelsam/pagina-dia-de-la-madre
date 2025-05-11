@@ -15,6 +15,15 @@ const defaultPhotos = [
   { src: "/collage_3.jpg", col: 2, row: 1 },
   { src: "/collage_8.jpg", col: 2, row: 2 },
   { src: "/collage_9.jpg", col: 2, row: 2 },
+  { src: "/collage_10.jpeg", col: 2, row: 2 },
+  { src: "/collage_12.jpeg", col: 2, row: 2 },
+  { src: "/collage_13.jpeg", col: 2, row: 2 },
+  { src: "/collage_14.jpeg", col: 2, row: 2 },
+  { src: "/collage_15.jpeg", col: 2, row: 2 },
+  { src: "/collage_16.jpeg", col: 2, row: 2 },
+  { src: "/collage_17.jpeg", col: 2, row: 2 },
+  { src: "/collage_18.jpeg", col: 2, row: 2 },
+
 
 ]
 
